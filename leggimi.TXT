@@ -1,0 +1,2 @@
+per lanciare l'applicazione andare sul prompt
+D:\Udemy\CS50 Beyond\tictactoe\tictactoe>flask --app application run
